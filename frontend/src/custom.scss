@@ -31,6 +31,9 @@ body {
   margin-top: 2 * $spacer;
   margin-bottom: 2 * $spacer;
 }
+.navbar-nav .nav-item .nav-link {
+   color: #FFFFFF;
+} 
 
 .user-pic {
   height: 40px;
